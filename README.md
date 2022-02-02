@@ -1,4 +1,6 @@
 ## **Apresentação do Case e sua solução**
+
+![10](https://user-images.githubusercontent.com/88242628/152243195-e8591b18-d60b-4221-a265-3b830a1076cc.png)
 # Previsão de Churn
 Nesse repositório, estaremos explorando uma base de dados de uma empresa de serviços bancários com o intuito identificar o perfil dos clientes que deixaram a agência e prever a probabilidade de Churn.
 - Churn.ipynb notebook com a solução do problema.
