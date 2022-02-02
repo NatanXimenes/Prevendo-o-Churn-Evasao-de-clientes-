@@ -87,12 +87,12 @@ Após a análise exploratória conseguimos definir o perfil dos clientes que dei
 
 # **Pré-Processamento dos dados**
 Nessa etapa foi feita as seguintes transformações nos dados:
-- 1. A transfomação das variáveis categóricas em binárias
-- 2. Separação da base em treino e teste
-- 3. O tratamento dos dados balanceados, será descrito logo abaixo
-- 4. Deixar os dados na mesma escala com o uso do Standart Scaler
+- 1) A transfomação das variáveis categóricas em binárias
+- 2) Separação da base em treino e teste
+- 3) O tratamento das classes desbalanceadas, será explicado logo abaixo
+- 4) Deixar os dados na mesma escala com o uso do Standart Scaler
 
-# Utilizando o método SMOTE para lidar com os dados desbalanceados
+# 3) Utilizando o método SMOTE para lidar com os dados desbalanceados
 Definição: Consiste em gerar dados sintéticos (não duplicados) da classe minoritária a partir de vizinhos. Foi aplicado a base de treino devido a grande diferença no número de clientes que realizaram o churn aos que mantiveram o serviço como contatado no início da análise.
 
 ![6](https://user-images.githubusercontent.com/88242628/152234409-44585c3e-e3c2-4bd2-9403-6e816a4dba4e.png)
