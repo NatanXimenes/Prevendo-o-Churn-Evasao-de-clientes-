@@ -48,7 +48,9 @@ Com os dados coletados e limpos, podemos fazer uma análise expoloratória e tir
 * **76 mil de saldo em sua conta e 1,5 produtos**
 * **O salário estimado(EstimatedSalary) é de 100.000**
 * **70% possuem cartão de crédito e 51% são membros ativos**
+
 Histograma:
+
 ![1](https://user-images.githubusercontent.com/88242628/152234357-4ffb37c5-8e0b-4f0a-a40a-13eb5eb094ce.png)
 
 - **a maioria dos clientes têm entre 30 a 45 anos e poucos clientes têm idade superior a 60 anos.**
@@ -94,7 +96,8 @@ Nessa etapa foi feita as seguintes transformações nos dados:
 - 3) O tratamento das classes desbalanceadas, será explicado logo abaixo
 - 4) Deixar os dados na mesma escala com o uso do Standart Scaler
 
-# 3) Utilizando o método SMOTE para lidar com os dados desbalanceados
+**iii. Utilizando o método SMOTE para lidar com os dados desbalanceados**
+
 Definição: Consiste em gerar dados sintéticos (não duplicados) da classe minoritária a partir de vizinhos. Foi aplicado a base de treino devido a grande diferença no número de clientes que realizaram o churn aos que mantiveram o serviço como contatado no início da análise.
 
 ![6](https://user-images.githubusercontent.com/88242628/152234409-44585c3e-e3c2-4bd2-9403-6e816a4dba4e.png)
