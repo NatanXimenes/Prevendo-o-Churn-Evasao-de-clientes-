@@ -36,6 +36,8 @@ Tendo o problema e os dados em mãos, podemos estruturar uma solução da seguin
 - EstimatedSalary: salário estimado;
 - Exited: cliente deixou de ser cliente do banco ou não (Churn = 1).
 
+**Os dados para esse projetos foram obtidos no Kaggle pelo seguinte** [link](https://www.kaggle.com/shubh0799/churn-modelling) 
+
 # Análise exploratória dos dados
 Com os dados coletados e limpos, podemos fazer uma análise expoloratória e tirar conclusões baseada nos dados:
 
