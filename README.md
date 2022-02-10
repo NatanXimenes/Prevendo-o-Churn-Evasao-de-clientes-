@@ -132,4 +132,4 @@ Podemos notar pelas métricas de avaliação que o modelo preve muito bem quem n
 **foram elas: idade, saldo bancário, pontuação de crédito, estimativa de salário, membro ativo e país Alemanha.**
 
 # Concluindo
-A partir desse resultado, das características dos clientes que cancelaram o serviço, do modelo preditivo e com a informação das varíaveis predominates para ocasionar o churn, o time de negócio poderá prever clientes com a maior de cancelamento e assim tomar medidas preventivas, afim de evitar essa saída.
+A partir desse resultado, das características dos clientes que cancelaram o serviço, do modelo preditivo e com a informação das varíaveis predominates para ocasionar o churn, o time de negócio poderá prever clientes com a maior chance de cancelamento e assim tomar medidas preventivas, afim de evitar essa saída.
